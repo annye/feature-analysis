@@ -1,0 +1,27 @@
+II phase research Horses for courses- Phase Feature selection
+Dataset: https://data.mendeley.com/datasets/6jpdxs8p2y/1
+
+1.- To access to virtual environment
+$ venv\Scripts\activate
+$ (venv) PS>
+
+python -m notebook
+
+2.- To access to dagshub
+Steps:
+https://dagshub.com/nirbarazida/DAGsHub-Walkthrough/src/master/DVC%20Commands.md
+
+
+
+
+pip install dvc
+pip install dvc fastds
+git clone http:\\ ..
+git init
+dvc init
+dvc remote list
+cat .dvc/.gitignore
+dvc push -r origin
+git push --set-upstream Survey master
+
+
